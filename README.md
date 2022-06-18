@@ -10,6 +10,9 @@ This is my attempt to make a snake game after completing this [Udemy Course](htt
 
 ## This game is a work in progress
 
+This repository was originally kept in another repository: [jQuery BtoA](https://github.com/D-Whipp/jQueryBtoA).\
+[jQuery BtoA](https://github.com/D-Whipp/jQueryBtoA) follows a Udemy Course I completed. Once complete, I began developing this snake game to see the impact that course had on my understanding of jQuery.
+
 ### Currently I've accomplished
 
 - Starting the game with the Snake in the top left corner
